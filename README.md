@@ -38,7 +38,7 @@ O projeto suporta diretamente os seguintes Objetivos de Desenvolvimento Sustent�
 A aplicação foi desenvolvida com dois motores de dados operando em paralelo:
 
 1. **Motor de Risco Espacial (Dados Reais 🛰️):**
-   * O sistema lê e processa o arquivo `current_catalog.csv` contendo **mais de 15.000 registros reais** de objetos em órbita.
+   * O sistema lê e processa o arquivo `current_catalog.csv` contendo **mais de 15.000 registros reais** de objetos em órbita, disponível em "https://www.kaggle.com/datasets/karnikakapoor/satellite-orbital-catalog".
    * Filtra os objetos através de regras de domínio rigorosas: *Altitude < 300km*, *Expectativa de queda < 1 ano* e *Nível de Toxicidade* (Foguetes e Satélites).
 2. **Motor de Monitoramento Marinho (Dados Simulados 🌍):**
    * Um algoritmo simula a varredura contínua de satélites ambientais.
@@ -50,7 +50,7 @@ Ao final, os eventos de domínio se comunicam, mesclando o lixo espacial com as 
 
 ## 🏛️ Arquitetura e Modelagem (DDD)
 
-O código foi rigorosamente estruturado utilizando **Domain-Driven Design (DDD)** para garantir baixo acoplamento e alta coesão, isolando as regras de negócio de frameworks e interfaces.
+O código foi estruturado utilizando **Domain-Driven Design (DDD)**.
 
 ### Bounded Contexts
 * **Space Tracking Context:** Vocabulário focado em `SpaceDebris`, `OrbitalTelemetry`, `ToxicityLevel`.
