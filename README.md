@@ -10,18 +10,6 @@ Projeto desenvolvido como parte da Global Solution (GS) do curso de Engenharia d
 
 ---
 
-## 📋 Índice
-1. [O Problema & A Solução](#-o-problema--a-solução)
-2. [Alinhamento aos ODS da ONU](#-alinhamento-aos-ods-da-onu)
-3. [Como Funciona a Plataforma](#-como-funciona-a-plataforma)
-4. [Arquitetura e Modelagem (DDD)](#-arquitetura-e-modelagem-ddd)
-5. [Tecnologias Utilizadas](#-tecnologias-utilizadas)
-6. [Estrutura do Projeto](#-estrutura-do-projeto)
-7. [Como Executar](#-como-executar)
-8. [Equipe Desenvolvedora](#-equipe-desenvolvedora)
-
----
-
 ## 🎯 O Problema & A Solução
 
 ### O Ponto Cego Ambiental
