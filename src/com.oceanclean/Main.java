@@ -105,7 +105,7 @@ public class Main {
         System.out.println("O OceanClean é um sistema inteligente de proteção oceânica, alinhado aos ODS 13 e 14.");
         System.out.println("\nCOMO FUNCIONA O SISTEMA:");
         System.out.println(" 🛰️  Risco Espacial: A previsão de queda de lixo espacial e contaminação por metais/hidrazina");
-        System.out.println("     é calculada de forma REAL cruzando os dados orbitais do arquivo 'current_catalog.csv'.");
+        System.out.println("     é calculada de forma REAL cruzando os dados orbitais do arquivo 'current_catalog.csv', disponível em 'https://www.kaggle.com/datasets/karnikakapoor/satellite-orbital-catalog'.");
         System.out.println(" 🌍  Ameaças Marinhas: Os demais alertas (manchas de óleo, microplásticos, algas, etc.)");
         System.out.println("     vêm de dados SIMULADOS, representando a leitura de satélites ambientais (como MODIS e PACE)");
         System.out.println("     que varrem e monitoram a qualidade dos oceanos continuamente.");
