@@ -109,7 +109,7 @@ oceanclean/
 2. Clone o repositório para o seu ambiente local:
 
 ```bash
-git clone [https://github.com/SEU-USUARIO/oceanclean.git](https://github.com/MatheusFVieira/oceanclean-ddd.git)
+git clone https://github.com/MatheusFVieira/oceanclean-ddd.git
 ```
 
 3. Abra o projeto na sua IDE de preferência (IntelliJ IDEA, Eclipse, VS Code).
