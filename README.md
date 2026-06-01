@@ -1,8 +1,7 @@
 # 🌊 OceanClean: Plataforma de Monitoramento Ambiental e Risco Espacial
 
-![Java](https://img.shields.io/badge/Java-17%2B-blue?logo=java)
+![Java](https://img.shields.io/badge/Java-Blue?logo=openjdk&logoColor=white)
 ![Arquitetura](https://img.shields.io/badge/Arquitetura-Domain--Driven%20Design-success)
-![Status](https://img.shields.io/badge/Status-Concluído-brightgreen)
 ![Instituição](https://img.shields.io/badge/FIAP-Engenharia%20de%20Software-ed145b)
 
 O **OceanClean** é uma plataforma inteligente concebida para atuar na intersecção da Sustentabilidade Espacial (*Space Sustainability*) e da Preservação Oceânica. O sistema cruza dados reais de telemetria orbital com simulações de sensores ambientais para criar um painel unificado de proteção marinha.
