@@ -62,7 +62,6 @@ public class Main {
                             .filter(e -> e.toxicity() == ToxicityLevel.HIGH_ROCKET_BODY)
                             .limit(2)
                             .forEach(diverseEvents::add);
-
                     allEvents.stream()
                             .filter(e -> e.toxicity() == ToxicityLevel.MEDIUM_PAYLOAD)
                             .limit(2)
