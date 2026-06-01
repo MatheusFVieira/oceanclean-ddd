@@ -109,7 +109,7 @@ oceanclean/
 2. Clone o repositório para o seu ambiente local:
 
 ```bash
-git clone https://github.com/SEU-USUARIO/oceanclean.git
+git clone [https://github.com/SEU-USUARIO/oceanclean.git](https://github.com/MatheusFVieira/oceanclean-ddd.git)
 ```
 
 3. Abra o projeto na sua IDE de preferência (IntelliJ IDEA, Eclipse, VS Code).
@@ -124,7 +124,7 @@ git clone https://github.com/SEU-USUARIO/oceanclean.git
 
 ## 👥 Equipe Desenvolvedora
 
-Projeto desenvolvido com foco em **Clean Code**, **escalabilidade** e **impacto ambiental** pelo grupo:
+Projeto desenvolvido pelo grupo:
 
 - Jose Rafael Tejeda Mantilla RM: 561849
 - Laura Sousa Barreto RM: 561965
